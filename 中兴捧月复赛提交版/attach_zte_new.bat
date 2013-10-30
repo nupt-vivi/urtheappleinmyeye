@@ -1,0 +1,1 @@
+start javaw -jar attach_zte_new.jar
